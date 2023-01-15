@@ -1,3 +1,5 @@
+# Variables and type() function
+
 a = 1
 b = 2
 c = "Yo"
