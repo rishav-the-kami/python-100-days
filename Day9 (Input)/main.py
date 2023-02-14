@@ -1,3 +1,5 @@
+# Taking input
+
 a = input("Enter ur name: ")
 print(a)
 
